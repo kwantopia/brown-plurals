@@ -2,3 +2,6 @@
 *.pot
 *.pyc
 local_settings.py
+brown_corpus
+brown_corpus.zip
+venv
